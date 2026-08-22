@@ -1,23 +1,26 @@
 <!-- CABEÇALHO COM GRADIENTE ROXO PARA VERDE & ESPADAS -->
 <div align="center">
 
-![Banner Animado](IMG/banner.gif)
-
-<!-- TEXTO DINÂMICO DIGITADO (VERDE MATRIX / ROXO NEON) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=⚔️+Forjando+sistemas+e+estruturas+robustas...;🛡️+Defendendo+código+limpo+e+alta+performance;⚡+Agilidade,+lógica+afiada+e+bancos+de+dados)](https://git.io/typing-svg)
+  <!-- Banner redimensionado -->
+  <img src="https://github.com/svictorem/svictorem/raw/main/IMG/banner.gif" width="100%" style="max-width: 800px; border-radius: 8px;">
   
-<br>
+  <br><br>
 
-<!-- BADGES TEMÁTICAS -->
-![Classe](https://img.shields.io/badge/CLASSE-WARRIOR_DEVELOPER-7B2CBF?style=for-the-badge&logoColor=00FF66)
-![Status](https://img.shields.io/badge/STATUS-LEVEL_UP-00FF66?style=for-the-badge&logo=codeforces&logoColor=7B2CBF)
-![Build](https://img.shields.io/badge/BUILD-AGI%20%2F%20TECH-10002B?style=for-the-badge&logo=visualstudiocode&logoColor=00FF66)
+  <!-- Texto dinâmico -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=⚔️+Forjando+sistemas+e+estruturas+robustas...;🛡️+Defendendo+código+limpo+e+alta+performance;⚡+Agilidade,+lógica+afiada+e+bancos+de+dados)](https://git.io/typing-svg)
   
-<br>
+  <br>
 
-<!-- REDES SOCIAIS E CONTATO -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oliveira-16a66727)
-[![Lattes](https://img.shields.io/badge/Currículo_Lattes-316192?style=for-the-badge&logo=read-the-docs&logoColor=white)](http://lattes.cnpq.br/8346733814943212)
+  <!-- Badges de Classe/Status -->
+  ![Classe](https://img.shields.io/badge/CLASSE-WARRIOR_DEVELOPER-7B2CBF?style=for-the-badge&logoColor=00FF66)
+  ![Status](https://img.shields.io/badge/STATUS-LEVEL_UP-00FF66?style=for-the-badge&logo=codeforces&logoColor=7B2CBF)
+  ![Build](https://img.shields.io/badge/BUILD-AGI%20%2F%20TECH-10002B?style=for-the-badge&logo=visualstudiocode&logoColor=00FF66)
+  
+  <br>
+
+  <!-- Redes Sociais -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oliveira-16a66727)
+  [![Lattes](https://img.shields.io/badge/Currículo_Lattes-316192?style=for-the-badge&logo=read-the-docs&logoColor=white)](http://lattes.cnpq.br/8346733814943212)
 
 </div>
 
