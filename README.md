@@ -1,6 +1,6 @@
 <!-- CABEÇALHO COM GRADIENTE ROXO PARA VERDE & ESPADAS -->
 <div align="center">
-  <video src="IMG/Banner%20github%20animado.mp4" autoplay loop muted playsinline width="850" style="border-radius: 12px;"></video>
+  <video src="IMG/banner.mp4" autoplay loop muted playsinline width="850" style="border-radius: 12px;"></video>
 
   <!-- TEXTO DINÂMICO DIGITADO (VERDE MATRIX / ROXO NEON) -->
   <a href="https://git.io/typing-svg">
@@ -79,8 +79,8 @@
 ### 📊 Status & Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svictorem&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svictorem&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=svictorem&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svictorem&amp;layout=compact&amp;theme=radical" alt="Top Languages" height="150" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svictorem&theme=radical" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svictorem&amp;theme=radical" alt="GitHub Streak" height="150" />
 </div>
