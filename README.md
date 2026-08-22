@@ -1,7 +1,7 @@
 <!-- CABEÇALHO COM GRADIENTE ROXO PARA VERDE & ESPADAS -->
 <div align="center">
 
-https://github.com/svictorem/svictorem/raw/main/IMG/banner.mp4
+<video src="https://raw.githubusercontent.com/svictorem/svictorem/main/IMG/banner.mp4" autoplay loop muted playsinline width="100%"></video>
 
 <!-- TEXTO DINÂMICO DIGITADO (VERDE MATRIX / ROXO NEON) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=⚔️+Forjando+sistemas+e+estruturas+robustas...;🛡️+Defendendo+código+limpo+e+alta+performance;⚡+Agilidade,+lógica+afiada+e+bancos+de+dados)](https://git.io/typing-svg)
