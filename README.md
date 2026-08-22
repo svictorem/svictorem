@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Banner redimensionado -->
-  <img src="https://github.com/svictorem/svictorem/raw/main/IMG/banner.gif" width="650">
+  <img src="https://github.com/svictorem/svictorem/raw/main/IMG/banner.gif" width="100%" style="max-width: 650px; border-radius: 12px; border: 1px solid rgba(123, 44, 191, 0.3);">
   
   <br><br>
 
