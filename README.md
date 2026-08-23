@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Banner redimensionado -->
-  <img src="IMG/Banner_anjo_anim-ezgif.com-crop.gif" width="100%" style="max-width: 850px; border-radius: 15px; border: 2px solid rgba(123, 44, 191, 0.5); box-shadow: 0 4px 12px rgba(0,0,0,0.3); object-fit: cover;">
+  <img src="IMG/Banner_anjo_anim-ezgif.com-crop.gif" width="100%" style="max-width: 850px; height: 280px; border-radius: 15px; border: 2px solid rgba(123, 44, 191, 0.5); box-shadow: 0 4px 12px rgba(0,0,0,0.3); object-fit: cover; object-position: center;">
   
   <br><br>
 
