@@ -14,9 +14,10 @@
   <br>
 
   <!-- Badges de Classe/Status -->
-  ![Classe](https://img.shields.io/badge/CLASSE-WARRIOR_DEVELOPER-7B2CBF?style=for-the-badge&logoColor=00FF66)
-  ![Status](https://img.shields.io/badge/STATUS-LEVEL_UP-00FF66?style=for-the-badge&logo=codeforces&logoColor=7B2CBF)
-  ![Build](https://img.shields.io/badge/BUILD-AGI%20%2F%20TECH-10002B?style=for-the-badge&logo=visualstudiocode&logoColor=00FF66)
+  ![Classe](https://img.shields.io/badge/CLASSE-WARRIOR_DEVELOPER-7B2CBF?style=for-the-badge&logo=hackthebox&logoColor=00FF66)
+  ![Nível](https://img.shields.io/badge/NÍVEL-99-FF0000?style=for-the-badge&logo=firebase&logoColor=white)
+  ![Build](https://img.shields.io/badge/BUILD-BACKEND%20%2F%20DATA-10002B?style=for-the-badge&logo=mysql&logoColor=00FF66)
+  ![Status](https://img.shields.io/badge/STATUS-FULL_MANA-00599C?style=for-the-badge&logo=java&logoColor=white)
   
   <br>
 
