@@ -7,7 +7,9 @@
   <br><br>
 
   <!-- Texto dinâmico -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=⚔️+Forjando+sistemas+e+estruturas+robustas...;🛡️+Defendendo+código+limpo+e+alta+performance;⚡+Agilidade,+lógica+afiada+e+bancos+de+dados)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00FF66&center=true&vCenter=true&width=800&lines=⚡+Lógica+afiada,+Engenharia+e+Desenvolvimento+de+Soluções)](https://git.io/typing-svg)
+  
+  **Estudante de Engenharia da Computação | Foco em Backend, Banco de Dados e Infraestrutura**
   
   <br>
 
@@ -23,6 +25,33 @@
   [![Lattes](https://img.shields.io/badge/Currículo_Lattes-316192?style=for-the-badge&logo=read-the-docs&logoColor=white)](http://lattes.cnpq.br/8346733814943212)
 
 </div>
+
+<br>
+
+### 📜 Sobre Mim
+
+Atualmente curso **Engenharia da Computação na Fametro** e possuo formação como **Técnico em Informática**. Essa trajetória me garante um alicerce sólido, unindo a profundidade teórica da engenharia à aplicação prática e ágil no desenvolvimento.
+
+Tenho grande interesse e foco na **construção e análise de scripts**, na **modelagem e otimização de bancos de dados** (estruturando consultas eficientes) e no **planejamento de infraestrutura de redes**. Busco sempre desenhar soluções robustas, garantindo alta performance, segurança e confiabilidade nos ambientes em que atuo.
+
+<br>
+
+### 🚀 Destaques e Experiência
+
+#### 💾 ProtoTech | Plataforma de Gestão e Prototipagem (https://github.com/svictorem/ProtoTech)
+* **O projeto:** Sistema full-stack corporativo para gestão de inventário, vendas de eletrônicos e vitrine comercial.
+* **Minha atuação:** Desenvolvi a API REST (Node.js/Express) e estruturei o banco de dados relacional (MySQL) seguindo a 3ª Forma Normal (3FN). Implementei regras de negócio robustas no nível do banco, utilizando **Stored Procedures** para controle de transações (atualização de saldos) e **Triggers** para geração automática de alertas de estoque crítico.
+* **Tecnologias:** `MySQL` `Node.js` `Express` `Stored Procedures` `Triggers` `React`
+
+#### 📦 Controle de Estoque | Sistema CRUD (https://github.com/svictorem/controle-de-estoque1)
+* **O projeto:** Aplicação prática para gerenciamento e fluxo de estoque utilizando operações CRUD.
+* **Minha atuação:** Configuração do ambiente de servidor local (Apache/XAMPP) e implementação da camada de persistência de dados. Estruturei a comunicação direta entre a aplicação em PHP e o banco de dados MySQL para registrar, atualizar e consultar a entrada e saída de itens.
+* **Tecnologias:** `PHP` `MySQL` `XAMPP` `CRUD`
+
+#### 🌿 Guardião Igarapé | Sistema de Gestão em Java (https://github.com/svictorem/Guardiao_Igarape
+* **O projeto:** Sistema acadêmico de gerenciamento de voluntariado ambiental (CLI) para controle de participantes, ações ecológicas e emissão de certificados.
+* **Minha atuação:** Aplicação prática de Programação Orientada a Objetos (POO) com estruturação do software em camadas (`Model`, `Service`, `DAO`, `Exception`). Foco no encapsulamento das regras de negócio, como o cálculo de relatórios de carga horária e o gerenciamento do fluxo de dados no backend.
+* **Tecnologias:** `Java` `POO` `Arquitetura MVC/DAO` `CLI`
 
 <br>
 
