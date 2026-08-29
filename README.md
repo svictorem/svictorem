@@ -39,6 +39,11 @@ Tenho grande interesse e foco na **construção e análise de scripts**, na **mo
 
 ### 🚀 Destaques e Experiência
 
+#### 🏢 ProtoTech | Controle de Clientes e Pedidos
+* **O projeto:** Aplicação web para gerenciar fluxo de clientes, catálogo de produtos, controle de estoque com alertas e processamento de pedidos, incluindo painel administrativo e relatórios em PDF.
+* **Minha atuação:** Desenvolvimento em equipe (Grupo 02 - Cetam) utilizando a arquitetura em camadas do Spring MVC (Model, Repository, Service, Controller). Implementação da interface dinâmica com Thymeleaf, integração com MySQL via Spring Data JPA e geração de documentos com OpenHTMLtoPDF.
+* **Tecnologias:** `Java 17` `Spring Boot` `Thymeleaf` `MySQL` `OpenHTMLtoPDF` `Maven`
+
 #### 💾 ProtoTech | Plataforma de Gestão e Prototipagem (https://github.com/svictorem/ProtoTech)
 * **O projeto:** Sistema full-stack corporativo para gestão de inventário, vendas de eletrônicos e vitrine comercial.
 * **Minha atuação:** Desenvolvi a API REST (Node.js/Express) e estruturei o banco de dados relacional (MySQL) seguindo a 3ª Forma Normal (3FN). Implementei regras de negócio robustas no nível do banco, utilizando **Stored Procedures** para controle de transações (atualização de saldos) e **Triggers** para geração automática de alertas de estoque crítico.
